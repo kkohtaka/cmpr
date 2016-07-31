@@ -1,0 +1,3 @@
+package: github.com/kkohtaka/cmpr
+import:
+- package: github.com/spf13/cobra
